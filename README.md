@@ -1,8 +1,18 @@
-# PayPal Agentic Toolkit Example
+# PayPal Agentic Toolkit Quickstart Example
+
+## References
+
+https://github.com/paypal/agent-toolkit
+https://developer.paypal.com/tools/agent-toolkit/
+https://developer.paypal.com/tools/agents/quickstart/
 
 ## Setup
 
+Set the following environment variables
 
+1. PAYPAL_CLIENT_ID
+2. PAYPAL_CLIENT_SECRET
+3. OPENAI_API_KEY
 
 ## To Run
 
